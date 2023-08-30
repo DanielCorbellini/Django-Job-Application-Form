@@ -46,3 +46,7 @@ Consider using environment variables or a secure configuration management soluti
 ## Incomplete Contact Page
 
 Please note that the contact page in this Django application is currently incomplete. I will finish it soon.
+
+# Disclaimer / Credits:
+This Project was made during the <a href="https://www.udemy.com/course/the-python-mega-course/" target="_blank">
+    Python Mega Course: Learn Python in 60 days, Build 20 Apps</a> on Udemy.
